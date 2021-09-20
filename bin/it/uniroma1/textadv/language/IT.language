@@ -1,0 +1,134 @@
+vai est	est
+e	est
+vai a est	est
+est	est
+vai a e	est
+vai e	est
+vai nord	nord
+n	nord
+vai a nord	nord
+nord	nord
+vai a n	nord
+vai n	nord
+vai sud	sud
+s	sud
+vai a sud	sud
+sud	sud
+vai a s	sud
+vai s	sud
+vai ovest	ovest
+o	ovest
+vai a ovest	ovest
+ovest	ovest
+vai a o	ovest
+vai o	ovest
+guarda	guarda
+apri	apri
+prendi	prendi
+inventario	inventario
+vai	vai
+accarezza	accarezza
+rompi	rompi
+usa	usa
+parla	parla
+entra	entra
+dai	dai
+apprendi	apprendi
+[Inizio gioco]	Inizio partita...
+[Comando]	Comando: 
+[Nome mondo]	Nome mondo:  
+[Descrizione mondo]	Descrizione mondo: 
+[Start]	Start: 
+[Impostazione lingua]	Lingua impostata su italiano.
+[Direzione elabora]	vai
+[Errore elabora]	Comando non riconosciuto!!
+[checkInventario]	 non è presente nell'inventario!
+[checkRoom]	 non è presente nella stanza!
+[apri1]	 aperta/o.
+[apri2]	 non è apribile!
+[prendi]	 è chiuso!
+[prendi1]	Non puoi prendere la vite!
+[prendi2]	Non puoi prendere questo oggetto!
+[prendi3]	Non puoi prendere i personaggi!
+[prendi4]	Devi pagarlo!
+[inventario]	Inventario :
+[accarezza]	 non può essere accarezzato o non è presente nella stanza!
+[rompi1]	Per rompere il salvadanaio è necessario un oggetto!
+[rompi2]	 non può essere rotto!
+[hasTreasure]	Complimenti, hai vinto !!
+[daiTesoro]	Il guardiano si altera e non ti permette di prendere il tesoro!
+[ricevi]	Il guardiano è ora impegnato con 
+[daiInventario]	 ti da:
+[aggiungiAdInventario1]	 aggiunto all'inventario.
+[aggiungiAdInventario2]	 non può essere aggiunto all'inventario!
+[vai1]	A nord non è presente una stanza!
+[vai2]	A sud non è presente una stanza!
+[vai3]	Ad ovest non è presente una stanza!
+[vai4]	Ad est non è presente una stanza!
+[Link aperto]	Link aperto!
+[no chiave/bloccato]	Non possiedi la chiave o il link è bloccato!
+[no oggetto]	Non hai l'oggetto per aprire il link!
+[ingresso chiuso]	L'ingresso è chiuso!
+[link non presente]	Link non presente nella stanza.
+[Botola]	É una botola.
+[Bus]	É un autobus.
+[Porta]	É una porta.
+[Teletrasporto]	É un teletrasporto.
+[descrivi1]	Nome stanza: 
+[descrivi2]	Descrizione stanza: 
+[descrivi3]	Oggetti presenti:
+[descrivi4]	Personaggi presenti:
+[descrivi5]	Direzioni disponibili:
+[direzione1]	Nord:
+[direzione2]	Sud:
+[direzione3]	Est:
+[direzione4]	Ovest:
+[muovi]	Ora ti trovi nella stanza : 
+[contiene]	 contiene 
+[Armadio]	È un armadio.
+[Cacciavite]	È un cacciavite.
+[Camino]	Il camino è acceso !
+[Camino spento1]	Il camino è stato spento
+[Camino spento2]	Il camino è spento
+[Camino secchio]	Il secchio è vuoto!
+[Camino errore]	Non puoi usare l'oggetto sul camino!
+[Cassetto]	È un cassetto.
+[Chiave]	È una chiave.
+[Martello]	È un martello.
+[apriOggetto1]	Per aprire questo oggetto occorre un attrezzo
+[apriOggetto2]	Impossibile aprire l'oggetto con questo attrezzo
+[apriOggetto3]	 aperto!
+[Pozzo errore]	 non può essere riempito con dell'acqua!
+[Pozzo]	È un pozzo
+[Salvadanaio]	È un salvadanaio
+[Salvadanaio rotto]	Il salvadanaio è rotto.
+[rottura salvadanaio]	Il salvadanaio si è rotto!
+[errore salvadanaio]	Non puoi rompere il salvadanaio con 
+[Scrivania]	È una scrivania.
+[riempi]	Secchio caricato!
+[Secchio pieno]	È un secchio pieno.
+[Secchio]	È un secchio vuoto.
+[Soldi]	Sono soldi.
+[Tesoro]	È un tesoro.
+[Tronchesi]	Sono delle tronchesi.
+[Vite]	È una vite.
+[Incantesimo]	É un incantesimo.
+[Regalo autista]	L'autista ti vede spesso sul bus... Ti regala un oggetto misterioso.
+[Apprendi]	Hai appreso l'incantesimo 
+[Errore apprendi]	 non è un incantesimo e non puoi studiarlo.
+[Morte guardiano]	Il guardiano muore e lascia il tesoro incustodito.
+[CCBI]	 : La classe non può essere instanziata!
+[EIAIAR]	 : L'entita è già in un'altra stanza!
+[ENF]	 : Entita non trovata!
+[LNF]	 : Linea non trovata all'interno del file!
+[LAE]	 : Il link già esiste!
+[LINKNF]	 : Link non trovato!
+[MNI]	 : Mondo non istanziabile, elementi mancanti!
+[PAE]	 : Il giocatore è stato già istanziato!
+[PNE]	 : Il giocatore non è stato instaziato!
+[PNF]	 : Il giocatore non è stato trovato!
+[RNF]	 : Stanza non trovata!
+[CNF]	 : Comando non trovato!
+[MondiPredefiniti]	Mondi:
+[SceltaMondo]	Seleziona mondo: 
+[MondoSelezionato]	Mondo selezionato: 

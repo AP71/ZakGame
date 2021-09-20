@@ -1,0 +1,126 @@
+go east	est
+e	est
+east	est
+go e	est
+go north	nord
+n	nord
+north	nord
+go n	nord
+go south	sud
+s	sud
+south	sud
+go s	sud
+go west	ovest
+w	ovest
+west	ovest
+go w	ovest
+look	guarda
+open	apri
+take	prendi
+inventory	inventario
+go	vai
+stroke	accarezza
+break	rompi
+use	usa
+talk	parla
+enters	entra
+give	dai
+learn	apprendi
+[Inizio gioco]	Start game...
+[Comando]	Command: 
+[Nome mondo]	World name: 
+[Descrizione mondo]	World description:
+[Start]	Start: 
+[Impostazione lingua]	Language set to english. 
+[Direzione elabora]	go
+[Errore elabora]	Command not found!!
+[checkInventario]	 it is not present in the inventory!
+[checkRoom]	 is not present in the room!!
+[apri1]	 open.
+[apri2]	 it cannot be opened!
+[prendi]	 is closed!
+[prendi1]	You can't take the screw!
+[prendi2]	You can't take this item!
+[prendi3]	You can't take the characters!
+[prendi4]	you have to pay for it!
+[inventario]	Inventory: 
+[accarezza]	 cannot be stroked or is not present in the room!
+[rompi1]	An object is needed to break the piggy bank!
+[rompi2]	 can't be broken!
+[hasTreasure]	Congratulations, you won !!
+[daiTesoro]	The guardian gets upset and won't let you take the treasure!
+[ricevi]	The guardian is now busy with 
+[daiInventario]	 gives you:
+[aggiungiAdInventario1]	 added to inventory.
+[aggiungiAdInventario2]	 cannot be added to inventory!
+[vai1]	There are no connection to the north
+[vai2]	There are no connection to the south
+[vai3]	there is no connection to the west
+[vai4]	there is no connection to the east
+[Link aperto]	Link open!
+[no chiave/bloccato]	You don't have the key or the link is blocked!
+[no oggetto]	You don't have the object to open the link!
+[ingresso chiuso]	The entrance is closed!
+[link non presente]	Link not present in the room.
+[Botola]	It's a trap door.
+[Bus]	It's a bus.
+[Porta]	It's a door.
+[Teletrasporto]	It's a teleport.
+[descrivi1]	Room name: 
+[descrivi2]	Room description: 
+[descrivi3]	Objects present:
+[descrivi4]	Characters present::
+[descrivi5]	Available directions:
+[direzione1]	North:
+[direzione2]	South:
+[direzione3]	East:
+[direzione4]	West:
+[muovi]	You are now in the room: 
+[contiene]	 contains 
+[Armadio]	It's a wardrobe.
+[Cacciavite]	It's a screwdriver.
+[Camino]	The fireplace is on!
+[Camino spento1]	The fireplace has been extinguished!
+[Camino spento2]	The fireplace is off!
+[Camino secchio]	The bucket is empty!
+[Camino errore]	You can't use the item on the fireplace!
+[Cassetto]	It's a drawer.
+[Chiave]	It's a key.
+[Martello]	It's a hammer.
+[apriOggetto1]	To open this object you need a tool.
+[apriOggetto2]	Cannot open object with this tool.
+[apriOggetto3]	 open!
+[Pozzo errore]	 cannot be filled with water!
+[Pozzo]	It's a well.
+[Salvadanaio]	It's a piggy bank.
+[Salvadanaio rotto]	The piggy bank is broken.
+[rottura salvadanaio]	The piggy bank broke!
+[errore salvadanaio]	You can't break the piggy bank with 
+[Scrivania]	It's a desk.
+[riempi]	Bucket loaded!
+[Secchio pieno]	It's a full bucket.
+[Secchio]	It is an empty bucket.
+[Soldi]	It's money.
+[Tesoro]	It is a treasure.
+[Tronchesi]	They are wire cutters.
+[Vite]	It's a screw.
+[Incantesimo]	It's a spell.
+[Regalo autista]	The driver often sees you on the bus ... He gives you a mysterious object.
+[Apprendi]	You learned the spell 
+[Errore apprendi]	 it is not a spell and you cannot study it.
+[Morte guardiano]	The guardian dies and leaves the treasure unattended.
+[CCBI]	 : The class cannot be instantiated!
+[EIAIAR]	 : The entity is already in another room!
+[ENF]	 : Entity not found!
+[LNF]	 : Line not found in the file!
+[LAE]	 : The link already exists!
+[LINKNF]	 : Link not found!
+[MNI]	 : World not instantiable, missing elements!
+[PAE]	 : The player has already been instantiated!
+[PNE]	 : The player was not instated!
+[PNF]	 : Player was not found!
+[RNF]	 : Room not found!
+[CNF]	 : Command not found!
+[MondiPredefiniti]	Wolrds: 
+[SceltaMondo]	Select world: 
+[MondoSelezionato]	Selected world: 
